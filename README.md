@@ -106,9 +106,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yeuxuan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&rank_icon=github" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeuxuan&theme=tokyonight" alt="Profile Details" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeuxuan&theme=tokyonight" alt="Stats" height="160"/>
   &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeuxuan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeuxuan&theme=tokyonight" alt="Top Languages by Repo" height="160"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeuxuan&theme=tokyonight" alt="Top Languages by Commit" height="160"/>
 </div>
 
 <div align="center">
