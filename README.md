@@ -123,10 +123,15 @@
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yeuxuan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies"/>
+  <a href="https://github.com/yeuxuan?tab=achievements">
+    <img src="https://img.shields.io/badge/⭐_Starstruck-×2-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Starstruck x2"/>
+    <img src="https://img.shields.io/badge/🦈_Pull_Shark-Achieved-0075CA?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark"/>
+    <img src="https://img.shields.io/badge/⚡_Quickdraw-Achieved-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw"/>
+    <img src="https://img.shields.io/badge/🎯_YOLO-Achieved-E74C3C?style=for-the-badge&logo=github&logoColor=white" alt="YOLO"/>
+  </a>
 </div>
 
 ---
