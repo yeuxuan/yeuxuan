@@ -106,9 +106,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yeuxuan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yeuxuan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&rank_icon=github" alt="GitHub Stats"/>
   &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeuxuan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeuxuan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -120,7 +120,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yeuxuan&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yeuxuan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies"/>
 </div>
 
 ---
