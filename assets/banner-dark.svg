@@ -1,0 +1,33 @@
+<svg viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="叶玄（yeuxuan）— 全栈工程师 · AI 智能体工程 · Vibe Coding">
+  <rect width="1200" height="280" rx="12" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="1199" height="279" rx="11.5" fill="none" stroke="#30363D"/>
+
+  <!-- 右侧图形：中心节点向外辐射，对应 MCP Hub 聚合多个客户端的结构 -->
+  <g fill="none" stroke="#4AA3E0" stroke-linecap="round">
+    <circle cx="1010" cy="140" r="130" stroke-opacity="0.14"/>
+    <circle cx="1010" cy="140" r="90" stroke-opacity="0.3" stroke-dasharray="2 6"/>
+    <g stroke-opacity="0.6" stroke-width="1.5">
+      <line x1="1010" y1="140" x2="1100" y2="140"/>
+      <line x1="1010" y1="140" x2="1055" y2="218"/>
+      <line x1="1010" y1="140" x2="965" y2="218"/>
+      <line x1="1010" y1="140" x2="920" y2="140"/>
+      <line x1="1010" y1="140" x2="965" y2="62"/>
+      <line x1="1010" y1="140" x2="1055" y2="62"/>
+    </g>
+  </g>
+  <g fill="#0D1117" stroke="#4AA3E0" stroke-width="2">
+    <circle cx="1100" cy="140" r="7"/>
+    <circle cx="1055" cy="218" r="7"/>
+    <circle cx="965" cy="218" r="7"/>
+    <circle cx="920" cy="140" r="7"/>
+    <circle cx="965" cy="62" r="7"/>
+    <circle cx="1055" cy="62" r="7"/>
+  </g>
+  <circle cx="1010" cy="140" r="16" fill="#4AA3E0"/>
+
+  <g font-family="-apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <text x="64" y="96" font-size="14" letter-spacing="3" fill="#8B949E">@YEUXUAN · FULL-STACK ENGINEER · AI SYSTEMS</text>
+    <text x="62" y="160" font-size="60" font-weight="700" letter-spacing="4" fill="#E6EDF3">叶玄</text>
+    <text x="64" y="208" font-size="22" fill="#E6EDF3">构建 AI 智能体工具链，把 Vibe Coding 做成可交付的工程</text>
+  </g>
+</svg>
