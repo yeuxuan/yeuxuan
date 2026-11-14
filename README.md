@@ -2,14 +2,20 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/avatar-dark.gif">
-  <img align="right" src="assets/avatar-light.gif" alt="阿强的 3D 卡通形象，戴圆框眼镜、穿黑色连帽衫，正在挥手打招呼" height="200">
+  <img align="right" src="assets/avatar-light.gif" alt="阿强的 3D 卡通形象：戴圆框眼镜、穿黑色连帽衫，笑着挥手打招呼" height="200">
 </picture>
 
-你好呀，我是**阿强**，也就是 GitHub 上的 yeuxuan。
+你好呀，我是**阿强**！叫我 yeuxuan 也行~
 
-全栈工程师 🧑‍💻 · AI 智能体工程 🤖 · Vibe Coding ✨。代码交给智能体，交付由我负责。
+全栈工程师 🧑‍💻，智能体驯养员 🤖，一个只认「跑起来才算数」的务实派 🛠️。
 
-Hey! I'm A-Qiang (yeuxuan), a full-stack engineer working on AI agent engineering and vibe coding. Agents write the code; I own the delivery.
+以前一行行写代码，现在一句句写需求：键盘交给 AI，我负责想清楚要什么、判断做得对不对。代码越来越便宜，想清楚问题、为结果负责，反而越来越值钱。
+
+Hey! I'm A-Qiang, or just yeuxuan~
+
+Full-stack engineer 🧑‍💻 · Agent wrangler 🤖 · A pragmatist who only counts what actually runs 🛠️
+
+I used to write code line by line; now I write intent sentence by sentence. AI does the typing, I decide what's worth building and whether it's right. Code keeps getting cheaper; clear thinking and owning the outcome don't.
 
 ## 作品
 
